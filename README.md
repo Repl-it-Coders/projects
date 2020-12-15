@@ -1,4 +1,4 @@
-# For Team Members
+# For Visitors
 A list of all the _amazing_ projects made by members of this group! - __Submit an issue to submit a project!__ Try to submit your ___best___ projects!
 
 # For Team Members
