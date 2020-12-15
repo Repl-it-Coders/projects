@@ -1,8 +1,8 @@
 # MyCalc
-A simple calculator made by me. Can calculate up to whatever numbers you want!
+A simple calculator made by me, HoangTuan110. It can calculate up to whatever numbers you want!
 
 # Getting started
-Just basically clone this:
+Just basically clone this repository:
 ```sh
 git clone https://github.com/Repl-it-Coders/MyCalc
 ```
@@ -27,12 +27,12 @@ mylang = MyLang()
 mylang.parse(code)
 ```
 
-Edit the `code` value to something like:
+Change the `code` value to something like:
 ```py
 code = "200 / 2"
 ```
 
-Run the file again, and you should see the result of your calculator!
+Run the file again, and you should see the result of it!
 
 # Problem
 The only problem with this calculator so far is the unbalance of how it cuts down the left, right and operator (when you calculate up to more than 2 numbers). For example:
