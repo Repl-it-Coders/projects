@@ -1,3 +1,6 @@
 [submodule "os-programmeruser2"]
 	path = os-programmeruser2
 	url = https://github.com/programmeruser2/os
+[submodule "Eating-simulator.github.io"]
+	path = Eating-simulator.github.io
+	url = https://github.com/Eating-simulator/Eating-simulator.github.io
