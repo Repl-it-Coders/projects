@@ -1,5 +1,5 @@
 # For Visitors
-A list of all the _amazing_ projects made by members of this group! - __Submit an issue to submit a project!__ Try to submit your ___best___ projects!
+Get ready to be baffled for this is a list of all the _amazing_ projects made by members of this group! - __Submit an issue to submit a project!__ Try to submit your ___best___ projects!
 
 # For Team Members
 Welcome, and thank you for coming here. This repo here is a repo for all the great projects made by the people in this organization. To run the programs and see the projects, do these things. This tutorial for seeing the project will continuously update with the different types of projects.
